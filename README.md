@@ -8,12 +8,57 @@
 	<kbd>✔️ Python</kbd> <kbd>✔️ C++</kbd> <kbd>✔️ AHK</kbd>
 	<h2></h2>
 </div>
-<br /><br />
+<br />
+
 <!-- About me -->
 
 <div>
 	<h3 align="center">About me!</h3>
-	![](https://komarev.com/ghpvc/?username=InnocentHumanNiko&color=131f4f)
+	Hello! I'm known online as InnocentHuman. Some people might call me Niko from my old Discord display name.
+	I'm currently 15 years old and am studying at The Prince Royal's College in Grade 10, where I'm enrolled in the Science of Integrated Innovation program.
+	Little fun facts about me are listed below!
+	<br /><br />
+	<details>
+		<summary>Fun facts 🚀</summary>
+		<ul>
+		<li>
+			<details>
+				<summary>Osu!</summary>
+				<ul>
+					<li>As some of you may know, I'm an Osu! player.</li>
+					<li>Currently ranked 170,000 globally.</li>
+					<li> <a href="https://osu.ppy.sh/users/17223415">My Profile!</a></li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary>Bilingual</summary>
+				<ul>
+					<li>I'm bilingual. Pretty unsurprising for most people.</li>
+					<li>I can speak Thai and English.</li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary>Relationship</summary>
+				<ul>
+					<li>Unlike how most people think of me, I'm taken.</li>
+					<li>Most of my friends don't know the news, so if they found out this way, hi there.</li>
+				</ul>
+			</details>
+		</li>
+  		</ul>
+	</details>
+</div>
+
+<!-- Statistics -->
+<div align="center">
+	<h3>Statistics</h3>
+	<a href="https://github.com/antonkomarev/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=InnocentHumanNiko&color=131f4f">
+	</a>
 </div>
 
 <!--
