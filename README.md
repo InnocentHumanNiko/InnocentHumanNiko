@@ -26,7 +26,7 @@
 				<summary>Osu!</summary>
 				<ul>
 					<li>As some of you may know, I'm an Osu! player.</li>
-					<li>Currently ranked 170,000 globally.</li>
+					<li>Currently ranked 150,000 globally.</li>
 					<li> <a href="https://osu.ppy.sh/users/17223415">My Profile!</a></li>
 				</ul>
 			</details>
