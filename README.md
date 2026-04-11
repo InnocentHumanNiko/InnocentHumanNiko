@@ -15,7 +15,7 @@
 <div>
 	<h3 align="center">About me!</h3>
 	Hello! I'm known online as InnocentHuman. Some people might call me Niko from my old Discord display name.
-	I'm currently 15 years old and am studying at The Prince Royal's College in Grade 10, where I'm enrolled in the Science of Integrated Innovation program.
+	I'm currently 16 years old and am studying at The Prince Royal's College in Grade 11, where I'm enrolled in the Science of Integrated Innovation program.
 	Little fun facts about me are listed below!
 	<br /><br />
 	<details>
@@ -26,7 +26,7 @@
 				<summary>Osu!</summary>
 				<ul>
 					<li>As some of you may know, I'm an Osu! player.</li>
-					<li>Currently ranked 150,000 globally.</li>
+					<li>Currently ranked 100,000 globally.</li>
 					<li> <a href="https://osu.ppy.sh/users/17223415">My Profile!</a></li>
 				</ul>
 			</details>
